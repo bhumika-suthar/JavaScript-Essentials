@@ -5,7 +5,7 @@ console.log(brand.toUpperCase())
 console.log(brand.substring(0, 6))
 
 var a = "Bhumika"
-var b = "Suthar"
+var b 
 console.log(a+ b)
 console.log(a + " " + b )
 console.log(`${a} ${b}`)
