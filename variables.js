@@ -2,7 +2,7 @@ var num = "Bhumika";
 var age = 21;
 var isfemale = true;
 var num2 = 100.2;
-var dob = new Date(2000, 4 , 23)
+
 var person = {}
 var empty = undefined
 
