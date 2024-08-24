@@ -1,12 +1,4 @@
 var person = {
-    first_name: "Bhumika",
-    age: 21,
-    isfemale: true,
-    balance: 1000.01,
-    dob: new Date(2000, 4, 23).toJSON(),
-    address: {
-        city: "Mithi",
-        code: 256
 
     }
 
