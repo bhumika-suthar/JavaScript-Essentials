@@ -1,9 +1,5 @@
 var name = "bhumika"
-var names = ["Bhumika",
-             "karshma", 
-             "kashish", 
-             "Ukesh ", 
-             "daksh"
+var names = [
 ];
 console.log(names);
 console.log("Index one : " + names[0]);
