@@ -1,8 +1,4 @@
-var names = ["Bhumika",
-             "karshma", 
-             "kashish", 
-             "Ukesh ", 
-             "daksh"
+var names = [
 ];
 
 var i =0;
